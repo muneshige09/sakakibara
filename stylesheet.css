@@ -1,3 +1,9 @@
-h1 {
+body {
+  font-family: "Avenir Next";
+}
+
+
+
+.main {
   color: #ff0000;
 }
