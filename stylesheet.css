@@ -1,6 +1,12 @@
 body {
   font-family: "Avenir Next";
 }
+.header{
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+  
 .main {
   color: #008b8b;
   font-size: 120px;
